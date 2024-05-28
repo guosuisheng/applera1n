@@ -1,3 +1,7 @@
+latest kpf url : https://cdn.nickchan.lol/palera1n/artifacts/kpf/iOS15/
+
+replace kpf.ios with new version
+
 # applera1n
 <h1 align="center">
     <p>icloud bypass for ios 15-16.6 tethered(macos and Linux)</p>
